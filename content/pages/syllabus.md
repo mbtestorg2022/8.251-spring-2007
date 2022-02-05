@@ -39,46 +39,514 @@ There will be two tests and a final exam.
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 35% |
-| Test 1 | 20% |
-| Test 2 | 20% |
-| Final exam | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Test 1
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Test 2
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Announcements, introduction {{< br >}}{{< br >}} Lorentz transformations {{< br >}}{{< br >}} Light-cone coordinates {{< br >}}{{< br >}}  |  |
-| 2 |  {{< br >}}{{< br >}} Energy and momentum {{< br >}}{{< br >}} Compact dimensions, orbifolds {{< br >}}{{< br >}} Quantum mechanics and the square well {{< br >}}{{< br >}}  |  |
-| 3 |  {{< br >}}{{< br >}} Relativistic electrodynamics {{< br >}}{{< br >}} Gauss' law {{< br >}}{{< br >}} Gravitation and Planck's length {{< br >}}{{< br >}}  | Homework 1 due |
-| 4 | Gravitational potentials, compactification, and large extra dimensions |  |
-| 5 | Nonrelativistic strings and lagrangian mechanics | Homework 2 due |
-| 6 | The relativistic point particle: Action, reparametrizations, and equations of motion |  |
-| 7 | Area formula for spatial surfaces | Homework 3 due |
-| 8 | Area formula for spatial surfaces (cont.) |  |
-| 9 | Change of variables | Homework 4 due |
-| 10 | Relativistic strings: Nambu-Goto action, equations of motion and boundary conditions | Homework 5 due |
-| 11 |  {{< br >}}{{< br >}} Static gauge, transverse velocity, and string action {{< br >}}{{< br >}} Motion of free open string endpoints {{< br >}}{{< br >}}  |  |
-| 12 |  {{< br >}}{{< br >}} The sigma-parametrization {{< br >}}{{< br >}} Equations of motion and virasoro constraints {{< br >}}{{< br >}} General motion for open strings {{< br >}}{{< br >}} Rotating open strings {{< br >}}{{< br >}}  | Homework 6 due |
-|  | Test 1 |  |
-| 13 |  {{< br >}}{{< br >}} Periodicity conditions for the motion of closed strings {{< br >}}{{< br >}} The formation of cusps {{< br >}}{{< br >}} Conserved currents in E&M {{< br >}}{{< br >}} Conserved charges in lagrangian mechanics {{< br >}}{{< br >}}  |  |
-| 14 |  {{< br >}}{{< br >}} Momentum charges for the string {{< br >}}{{< br >}} Lorentz charges for the strings {{< br >}}{{< br >}} Angular momentum of the rotating string {{< br >}}{{< br >}} Discuss alpha' and the string length l\_s {{< br >}}{{< br >}} General gauges: fixing tau and natural units {{< br >}}{{< br >}}  | Homework 7 due |
-| 15 | Solution of the open string motion in the light-cone gauge |  |
-| 16 | Light-cone fields and particles |  |
-| 17 | Light-cone fields and particles (cont.) | Homework 8 due |
-| 18 | Open strings | Homework 9 due |
-| 19 |  {{< br >}}{{< br >}} Critical dimension {{< br >}}{{< br >}} Constructing the state space {{< br >}}{{< br >}} Tachyons {{< br >}}{{< br >}}  |  |
-| 20 | Closed strings | Homework 10 due |
-| 21 |  {{< br >}}{{< br >}} Wrap-up of closed strings {{< br >}}{{< br >}} Superstrings {{< br >}}{{< br >}}  |  |
-|  | Test 2 |  |
-| 22 | Superstrings (cont.) |  |
-| 23 |  {{< br >}}{{< br >}} Closed strings {{< br >}}{{< br >}} Heterotic string theory {{< br >}}{{< br >}}  |  |
-| 24 |  {{< br >}}{{< br >}} Dp-branes {{< br >}}{{< br >}} Parallel Dp's {{< br >}}{{< br >}}  | Homework 11 due |
-| 25 | Dp-branes (cont.) |  |
-| 26 | Final exam review |  |
-|  | Final exam week |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Announcements, introduction
+
+Lorentz transformations
+
+Light-cone coordinates
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Energy and momentum
+
+Compact dimensions, orbifolds
+
+Quantum mechanics and the square well
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Relativistic electrodynamics
+
+Gauss' law
+
+Gravitation and Planck's length
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Gravitational potentials, compactification, and large extra dimensions
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Nonrelativistic strings and lagrangian mechanics
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The relativistic point particle: Action, reparametrizations, and equations of motion
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Area formula for spatial surfaces
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Area formula for spatial surfaces (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Change of variables
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Relativistic strings: Nambu-Goto action, equations of motion and boundary conditions
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Static gauge, transverse velocity, and string action
+
+Motion of free open string endpoints
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The sigma-parametrization
+
+Equations of motion and virasoro constraints
+
+General motion for open strings
+
+Rotating open strings
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Test 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Periodicity conditions for the motion of closed strings
+
+The formation of cusps
+
+Conserved currents in E&M
+
+Conserved charges in lagrangian mechanics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Momentum charges for the string
+
+Lorentz charges for the strings
+
+Angular momentum of the rotating string
+
+Discuss alpha' and the string length l\_s
+
+General gauges: fixing tau and natural units
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Solution of the open string motion in the light-cone gauge
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Light-cone fields and particles
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Light-cone fields and particles (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Open strings
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Critical dimension
+
+Constructing the state space
+
+Tachyons
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Closed strings
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Wrap-up of closed strings
+
+Superstrings
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Test 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Superstrings (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Closed strings
+
+Heterotic string theory
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dp-branes
+
+Parallel Dp's
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 11 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Dp-branes (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam review
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam week
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
