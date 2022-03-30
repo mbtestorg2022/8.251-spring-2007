@@ -5,6 +5,7 @@ description: Lecture notes on periodicity conditions for the motion of closed st
   mechanics.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-251-string-theory-for-undergraduates-spring-2007/1b4fc542f15f94af295ce319f443719a_lec13.pdf
 file_type: application/pdf
+parent_uid: 2aea95bd-972a-237e-bedf-048f46f47cb0
 resourcetype: Document
 title: lec13.pdf
 uid: 1b4fc542-f15f-94af-295c-e319f443719a
